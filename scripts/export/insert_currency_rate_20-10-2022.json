@@ -1,0 +1,57 @@
+[{
+    "success": true,
+    "fluctuation": true,
+    "start_date": "2022-10-18",
+    "end_date": "2022-10-19",
+    "base": "SGD",
+    "rates": {
+        "MYR": {
+            "start_rate": 3.32,
+            "end_rate": 3.31,
+            "change": -0.01,
+            "change_pct": -0.36,
+            "average": 3.32
+        },
+        "KRW": {
+            "start_rate": 1003.85,
+            "end_rate": 1006.65,
+            "change": 2.81,
+            "change_pct": 0.28,
+            "average": 1005.25
+        },
+        "USD": {
+            "start_rate": 0.7,
+            "end_rate": 0.7,
+            "change": -0.0,
+            "change_pct": -0.42,
+            "average": 0.7
+        },
+        "AUD": {
+            "start_rate": 1.12,
+            "end_rate": 1.12,
+            "change": 0.0,
+            "change_pct": 0.42,
+            "average": 1.12
+        },
+        "EUR": {
+            "start_rate": 0.71,
+            "end_rate": 0.72,
+            "change": 0.0,
+            "change_pct": 0.57,
+            "average": 0.72
+        }
+    }
+},
+{
+    "success": true,
+    "timestamp": 1666263184,
+    "base": "SGD",
+    "date": "2022-10-20",
+    "rates": {
+        "MYR": 3.322403,
+        "KRW": 1002.262252,
+        "USD": 0.70256,
+        "AUD": 1.114233,
+        "EUR": 0.716981
+    }
+}]
